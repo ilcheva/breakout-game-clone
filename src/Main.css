@@ -1,0 +1,14 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500&display=swap');
+html,
+body {
+    height: 100%;
+    font-family: 'Chakra Petch', sans-serif;
+    /* font-family: "Amatic SC", cursive; */
+}
+
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

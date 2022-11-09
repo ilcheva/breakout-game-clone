@@ -1,0 +1,55 @@
+{"frames": {
+
+"m1":
+{
+	"frame": {"x":0,"y":0,"w":270,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":249},
+	"sourceSize": {"w":270,"h":249}
+},
+"m2":
+{
+	"frame": {"x":0,"y":249,"w":272,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":264},
+	"sourceSize": {"w":272,"h":264}
+},
+"m3":
+{
+	"frame": {"x":0,"y":513,"w":287,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":286},
+	"sourceSize": {"w":287,"h":286}
+},
+"m4":
+{
+	"frame": {"x":0,"y":799,"w":276,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":276,"h":240},
+	"sourceSize": {"w":276,"h":240}
+},
+"m5":
+{
+	"frame": {"x":0,"y":1039,"w":250,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":281},
+	"sourceSize": {"w":250,"h":281}
+}
+}
+,
+
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monsters.png",
+	"format": "RGBA8888",
+	"size": {"w":287,"h":1320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:12bcd46e205e2a69fc0cb58bb98e5ead:336b13c2cb2ea0fcc08b3fc949084819:8fc4d3ec51ba7bc700054b5f64cf62b1$"
+}
+}
