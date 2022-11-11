@@ -197,7 +197,7 @@ export class GameController extends PIXI.Container {
       this.nbrBallView.setNbrBall(Model.getInstance().getTotalNbrBall());
       this.levelScreen.setLevel(Model.getInstance().getCurrentLevel());
 
-      if (Model.getInstance().getCurrentLevel() >= 2) {
+      if (Model.getInstance().getCurrentLevel() >= 15) {
         this.winScreen.setScore(Model.getInstance().getScore());
         this.winScreen.show();
         this.resetGame();
